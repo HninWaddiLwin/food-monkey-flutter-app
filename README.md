@@ -2,7 +2,7 @@
 
 A cross-platform mobile app (Android and iOS) for browsing products, placing orders, and chatting with the shop in real time.
 
-Built June–July 2021 in Yangon, Myanmar, as a self-taught project during internet shutdowns and power cuts after the military coup. Uploaded to GitHub in 2026.
+Built June - October 2022 in Yangon, Myanmar, as a self-taught project during internet shutdowns and power cuts after the military coup. Uploaded to GitHub in 2026.
 
 ## Features
 - Splash screen that checks the app version with the server before opening
